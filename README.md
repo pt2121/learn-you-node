@@ -1,4 +1,6 @@
-learn-you-node
+[learn-you-node](http://nodeschool.io/#learn-you-node)
 ==============
 
-Reviewing Node.js
+LEARN NODE.JS WITH INTERACTIVE LESSONS.
+
+Love these hands-on exercises!
